@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/18728754/checking-cin-input-stream-produces-an-integer
+
+https://www.youtube.com/watch?v=cNdlrbZSkyQ
+
+https://www2.htw-dresden.de/~skuehn/VL/rnks/8_Sockets.pdf
+
+https://www.codingninjas.com/blog/2020/07/06/learning-socket-programming-in-c/
+
+https://www.binarytides.com/socket-programming-c-linux-tutorial/
+
+https://docs.microsoft.com/en-us/windows/win32/winsock/ipv6-enabled-client-code-2
+
